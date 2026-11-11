@@ -137,5 +137,10 @@ namespace AeroBase
             dgvDrones.DataSource = null;
             dgvDrones.DataSource = filtered;
         }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

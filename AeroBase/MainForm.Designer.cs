@@ -529,6 +529,7 @@
             panel3.Name = "panel3";
             panel3.Size = new Size(1019, 80);
             panel3.TabIndex = 0;
+            panel3.Paint += panel3_Paint;
             // 
             // label3
             // 
