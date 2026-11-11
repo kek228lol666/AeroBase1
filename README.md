@@ -17,3 +17,5 @@
 1. Откройте решение (solution) в Visual Studio.
 2. Дождитесь восстановления пакетов NuGet (если потребуется).
 3. Нажмите клавишу F5 или кнопку "Пуск" (Start) для сборки и запуска приложения.
+
+https://docs.google.com/document/d/1xpyaqbtTxYeo3C0p1aRZsv4reZfTxakU1LsbqoXlKTA/edit?tab=t.0#heading=h.qzm7qwxicd51
